@@ -1,0 +1,10 @@
+id_user,name,email,password,birth_date,role
+2,arya,wardhana1910@gmail.com,1234,,Admin
+4,Budi,vv@gmail.com,vvudi,1942-01-15,User
+7,p,p@ac.id,p,,User
+8,andre,andre@gmail.com,andre,2004-05-23,User
+15,v,v,v,2023-12-22,Publisher
+16,Andre,ndrew@mail.com,n,2023-11-29,User
+17,Bud,bud@gmail.com,2,2023-12-22,User
+20,z,z,z,2023-12-22,User
+21,d,d,d,2023-12-22,Publisher
